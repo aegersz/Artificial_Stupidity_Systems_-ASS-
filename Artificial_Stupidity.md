@@ -2,7 +2,10 @@ Artificial_Stupidity.md
 
 *Breakdown approximately **97 % Me, 3 % AI**, with AI maintaining context and spirit (clever software and great training data with lots of decent input)*
 
-Us: 
+Here it is:
+---
+
+Us / (AEnAI):
 While everyone else is out there building AI to simulate human intelligence, I’m breaking new ground with Artificial Stupidity.
 
 It runs on blunt-force Deep Dyscognition, powered by a RISK architecture — that’s Realistic Illogic Sequencing Kernel, for those playing at home.
